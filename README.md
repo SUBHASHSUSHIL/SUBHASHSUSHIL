@@ -9,7 +9,7 @@
 - Completed my  **Bachelor (B.Sc)** in Bio Science from [JP University, Chhapra, Bihar](https://jpv.ac.in) (Class of 2019-22)
 - Pursuing  my **Masters (MCA)** in Computer Science from [PI University, Piska,Ranchi, Jharkhand](https://www.pragyaninternationaluniversity.ac.in) (Class of 2023-25).  
 - Preferred working in **C#**, **.Net**, **MySQL**, etc.  
-- My Interests are **Web Development**, **Machine Learning**, **API Development**, and **Database Management**.  
+- My Interests are **API Development**, **Web Development**, **Machine Learning**, and **Database Management**.  
 
 ---
 
