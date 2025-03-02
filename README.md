@@ -2,7 +2,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm Sushil Thakur</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=31&pause=1000&color=8149FF&background=6E40FF00&center=true&vCenter=true&width=2450&height=125&lines=Data+Intelligence+Associate+and+Azure+Data+Engineer;Specializing+in+AML%2C+Cybersecurity%2C+and+Risk+management;Expertise+in+Python%2C+SQL%2C+R%2C+and+advanced+analytics+tools+like+Tableau+and+SAS" alt="Typing SVG" /></a>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=31&pause=1000&color=8149FF&background=6E40FF00&center=true&vCenter=true&width=2450&height=125&lines=Data+Intelligence+Associate+and+Azure+Data+Engineer;Specializing+in+AML%2C+Cybersecurity%2C+and+Risk+management;Expertise+in+Python%2C+SQL%2C+R%2C+and+advanced+analytics+tools+like+Tableau+and+SAS" alt="Typing SVG" /></a>-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SUBHASHSUSHIL&color=blue)
 
