@@ -54,14 +54,14 @@
 
 
 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <!-- <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+   GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats
   <p>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=SUBHASHSUSHIL&theme=monokai-metallian&border_radius=5&short_numbers=true&card_width=500&card_height=199" alt="GitHub Streak" /></a>
-  </p>
+  </p> -->
 
   <h3>💻 GitHub Profile Stats</h3>
 
