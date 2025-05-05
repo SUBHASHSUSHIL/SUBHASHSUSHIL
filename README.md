@@ -63,7 +63,7 @@
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=SUBHASHSUSHIL&theme=monokai-metallian&border_radius=5&short_numbers=true&card_width=500&card_height=199" alt="GitHub Streak" /></a>
   </p> -->
 
-  <h3>💻 GitHub Profile Stats</h3>
+ <!-- <h3>💻 GitHub Profile Stats</h3>
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHASHSUSHIL&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
   <img alt="SUBHASHSUSHIL Top Languages" 
@@ -74,11 +74,11 @@
 
   <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="SUBHASHSUSHIL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SUBHASHSUSHIL&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="SUBHASHSUSHIL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SUBHASHSUSHIL&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
  <!-- <div align="center">
 <br>
