@@ -16,7 +16,7 @@
 - My Interests are **API Development**, **Web Development**, **Machine Learning**, **AI**, **Data Analysis** and **Database Management**.  
 
 ---
-<!--<h3 align="left">Connect with me:</h3>-->
+
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/sushil-thakur-6529a72a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushil-thakur" height="30" width="40" /></a>
@@ -59,10 +59,14 @@
 
   <h3>🔥 Streak Stats</h3>
 
-   GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats-->
+   
+   ## 🔥 Streak Stats
   <p>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=SUBHASHSUSHIL&theme=monokai-metallian&border_radius=5&short_numbers=true&card_width=500&card_height=199" alt="GitHub Streak" /></a>
-  </p> -->
+  </p>
+
+  ---
 
  ## 💻 GitHub Profile Stats
 
@@ -71,9 +75,6 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHASHSUSHIL&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
        height="192px" />
 </a>
-
-
-  <br/>
 
   <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
