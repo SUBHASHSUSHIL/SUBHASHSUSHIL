@@ -1,7 +1,7 @@
-<!--# Hello, I am Sushil Thakur 👋  -->
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm Sushil Thakur</h1>
+
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=31&pause=1000&color=8149FF&background=6E40FF00&center=true&vCenter=true&width=2450&height=125&lines=Data+Intelligence+Associate+and+Azure+Data+Engineer;Specializing+in+AML%2C+Cybersecurity%2C+and+Risk+management;Expertise+in+Python%2C+SQL%2C+R%2C+and+advanced+analytics+tools+like+Tableau+and+SAS" alt="Typing SVG" /></a>-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SUBHASHSUSHIL&color=blue)
@@ -9,11 +9,11 @@
 ---
 
 ## About Me  
-- **Software Engineer** @ [Ajeevi Technology Pvt Ltd.](https://ajeevi.com)
-- Completed my  **Bachelor (B.Sc)** in Bio Science from [JP University, Chhapra, Bihar](https://jpv.ac.in) (Class of 2019-22)
+- **Software Engineer** @ [Ajeevi Technology Pvt Ltd.](https://ajeevi.com).
+- Completed my  **Bachelor (B.Sc)** in Bio Science from [JP University, Chhapra, Bihar](https://jpv.ac.in) (Class of 2019-22).
 - Pursuing  my **Masters (MCA)** in Computer Science from [Mangalayatan University, Aligarh, UP, India](https://www.mangalayatan.in/) (Class of 2024-26).  
-- Preferred working in **C#**, **Python**, **Java**, **Java Script**, **MySQL**,   etc.  
-- My Interests are **API Development**, **Web Development**, **Machine Learning**, **AI**, **Data Analysis** and **Database Management**.  
+- Preferred working in **C#**, **Python**, **Java**, **Java Script**, **MySQL, MS-SQL** etc.
+- My Interests are **API Development**, **Web Development**, **Machine Learning**, **AI**, **Big Data Analysis** and **Database Management**.
 
 ---
 
@@ -37,30 +37,6 @@
 
 ---
 
-<!--## 📫 Reach Out to Me:
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SUBHASHSUSHIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushil-kumar-thakur-6529a72a2)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@your-username)
-
--->
-
-<!--## 📊 GitHub Stats:
-![Sushil Thakur GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUBHASHSUSHIL&show_icons=true&theme=radical)
-
----
-
-## 🔥 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHASHSUSHIL&layout=compact&theme=radical)-->
-
-
-
-
-  <!-- <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats-->
-   
    ## 🔥 Streak Stats
   <p>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=SUBHASHSUSHIL&theme=monokai-metallian&border_radius=5&short_numbers=true&card_width=500&card_height=199" alt="GitHub Streak" /></a>
@@ -78,13 +54,9 @@
 
   <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+ 
 
  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="SUBHASHSUSHIL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SUBHASHSUSHIL&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
- <!-- <div align="center">
-<br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SUBHASHSUSHIL}/count.svg" /></p> 
-</div>-->
+
 
