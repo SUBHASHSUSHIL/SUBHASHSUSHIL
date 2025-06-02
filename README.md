@@ -12,8 +12,8 @@
 - **Software Engineer** @ [Ajeevi Technology Pvt Ltd.](https://ajeevi.com)
 - Completed my  **Bachelor (B.Sc)** in Bio Science from [JP University, Chhapra, Bihar](https://jpv.ac.in) (Class of 2019-22).
 - Pursuing  my **Masters (MCA)** in Computer Science from [Mangalayatan University, Aligarh, UP, India](https://www.mangalayatan.in/) (Class of 2024-26).  
-- Preferred working in **C#**, **Python**, **Java**, **Java Script**, **MySQL, MS-SQL** etc.
-- My Interests are **API Development**, **Web Development**, **Machine Learning**, **AI**, **Big Data Analysis** and **Database Management**.
+- Preferred working in **C#**, **Python**, **Java**, **Java Script**, **MySQL, MS-SQL**
+- My Interests are **API Development**, **Web Development**, **Machine Learning**, **AI**, **Big Data Analysis** and **Database Management**
 
 ---
 
@@ -51,12 +51,3 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHASHSUSHIL&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
        height="192px" />
 </a>
-
-  <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
- 
-
- <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="SUBHASHSUSHIL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SUBHASHSUSHIL&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-
