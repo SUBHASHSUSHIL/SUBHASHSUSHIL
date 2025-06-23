@@ -9,7 +9,7 @@
 ---
 
 ## About Me  
-- **Software Engineer** @ [Ajeevi Technology Pvt Ltd.](https://ajeevi.com)
+- **Software Engineer** @ [Ajeevitech](https://ajeevi.com)
 - Completed my  **Bachelor (B.Sc)** in Bio Science from [JP University, Chhapra, Bihar](https://jpv.ac.in) (Class of 2019-22).
 - Pursuing  my **Masters (MCA)** in Computer Science from [Mangalayatan University, Aligarh, UP, India](https://www.mangalayatan.in/) (Class of 2024-26).  
 - Preferred working in **C#**, **Python**, **Java**, **Java Script**, **MySQL, MS-SQL**
