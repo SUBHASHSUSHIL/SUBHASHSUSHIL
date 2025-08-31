@@ -2,18 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Sushil Thakur</h1>
 
-<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=31&pause=1000&color=8149FF&background=6E40FF00&center=true&vCenter=true&width=2450&height=125&lines=Data+Intelligence+Associate+and+Azure+Data+Engineer;Specializing+in+AML%2C+Cybersecurity%2C+and+Risk+management;Expertise+in+Python%2C+SQL%2C+R%2C+and+advanced+analytics+tools+like+Tableau+and+SAS" alt="Typing SVG" /></a>-->
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SUBHASHSUSHIL&color=blue)
 
 ---
 
 ## About Me  
 - **Software Engineer** @ [Ajeevitech](https://ajeevi.com)
-- Pursuing  my **Masters (MCA)** in Computer Science from [Mangalayatan University, Aligarh, UP, India](https://www.mangalayatan.in/) (Class of 2024-26).
-- Completed my  **Bachelor (B.Sc)** in Bio Science from [JP University, Chhapra, Bihar](https://jpv.ac.in) (Class of 2019-22).  
+- Pursuing  my **Masters (MCA)** in Computer Science from [Mangalayatan University, Aligarh, UP, India](https://www.mangalayatan.in/) (Class of 2024-26). 
 - Preferred working in **C#**, **Python**, **Java**, **Java Script**
-- My Interests are **API Development**, **Web Development**, **Machine Learning**, **AI** and **Database Management**
+- My Interests are **API Development**, **Web Development**, **Mobile App**, **Machine Learning** and **Database Management**
 
 ---
 
@@ -51,5 +48,3 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHASHSUSHIL&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
        height="192px" />
 </a>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUBHASHSUSHIL&" alt="SUBHASHSUSHIL" /></p> -->
