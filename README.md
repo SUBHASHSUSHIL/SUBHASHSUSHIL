@@ -10,7 +10,7 @@
 - **Software Engineer** @ [Ajeevitech](https://ajeevi.com)
 - Pursuing  my **Masters (MCA)** in Computer Science from [Mangalayatan University, Aligarh, UP, India](https://www.mangalayatan.in/) (Class of 2024-26)
 - Preferred working in **C#**, **Python**, **Java**, **Java Script**
-- My Interests are **API Development**, **Web Development**, **Mobile App**, **Machine Learning** and **Database Management**
+- My Interests are **API Development**, **Web Development**, **Mobile App**, **Machine Learning** and **Database Management** 
 
 ---
 
@@ -46,5 +46,4 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHASHSUSHIL&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
   <img alt="SUBHASHSUSHIL Top Languages"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHASHSUSHIL&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
-       height="192px" />
-</a>
+       height="192px" /></a>
