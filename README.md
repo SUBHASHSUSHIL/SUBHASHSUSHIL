@@ -9,8 +9,8 @@
 ## About Me  
 - **Software Engineer** @ [Ajeevitech](https://ajeevi.com)
 - Pursuing  my **Masters (MCA)** in Computer Science from [Mangalayatan University, Aligarh, UP, India](https://www.mangalayatan.in/)
-- Preferred working in **C#**, **Python**, **Java Script**
-- My Interests are **API Development**, **Web Development**, **Machine Learning** and **Database Management** 
+- My Interests are **API Development**, **Web Development**, **Machine Learning** and **Database Management**
+- Skilled in **C#**, **Python**, **JavaScript**, and **.NET Core** 
 
 ---
 
