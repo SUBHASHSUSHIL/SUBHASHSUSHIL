@@ -6,7 +6,7 @@
 
 ---
 
-## About Me  
+## 👨‍💻 About Me  
 - **Software Engineer** @ [Ajeevitech](https://ajeevi.com)
 - Pursuing  my **Masters (MCA)** in Computer Science from [Mangalayatan University, Aligarh, UP, India](https://www.mangalayatan.in/)
 - My Interests are **API Development**, **Web Development**, **Machine Learning** and **Database Management**
@@ -14,7 +14,7 @@
 
 ---
 
-## Connect with me:
+## 🌐 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/sushil-thakur-6529a72a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushil-thakur" height="30" width="40" /></a>
 </p>
