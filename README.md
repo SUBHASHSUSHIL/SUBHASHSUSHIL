@@ -42,12 +42,12 @@
 
 ---
 
-   ## 🔥 Streak Stats
+  <!-- ## 🔥 Streak Stats
   <p>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=SUBHASHSUSHIL&theme=monokai-metallian&border_radius=5&short_numbers=true&card_width=500&card_height=199" alt="GitHub Streak" /></a>
   </p>
 
-  ---
+  --->
 
  ## 💻 GitHub Profile Stats
 
