@@ -7,10 +7,13 @@
 ---
 
 ## 👨‍💻 About Me  
-- **Software Engineer** @ [Ajeevitech](https://ajeevi.com)
-- Pursuing  my **Masters (MCA)** in Computer Science from [Mangalayatan University, Aligarh, UP, India](https://www.mangalayatan.in/)
-- My Interests are **API Development**, **Web Development**, **Machine Learning** and **Database Management**
-- Skilled in **C#**, **Python**, **JavaScript**, and **.NET Core** 
+
+I am a **Software Engineer** at [Ajeevitech](https://ajeevi.com)
+ with a strong focus on building scalable and high-performance applications. I have completed my **Master of Computer Applications (MCA)** from [Mangalayatan University, Aligarh, UP](https://www.mangalayatan.in/).
+
+I specialize in **API Development**, **Web Development**, **Machine Learning**, and **Database Management**, with hands-on experience in modern technologies like **C#**, **.NET Core**, **Python**, **JavaScript**, and SQL-based systems.
+
+I enjoy solving real-world problems through clean architecture, automation, and continuous learning.
 
 ---
 
@@ -29,6 +32,7 @@
 <a href="https://github.com/search?q=user%3ASUBHASHSUSHIL+tool%3Apandas"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
 <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge&logo=seaborn&logoColor=white">
+<img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
