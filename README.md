@@ -25,7 +25,7 @@ I enjoy solving real-world problems through clean architecture, automation, and 
 ---
 
 ## 🧰 Languages and Tools
-<a href="https://github.com/search?q=user%3ASUBHASHSUSHIL+language%3AC%23"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ASUBHASHSUSHIL+language%3AC%23"><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"></a>
 <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 <a href="https://github.com/search?q=user%3ASUBHASHSUSHIL+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
