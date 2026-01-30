@@ -9,9 +9,9 @@
 ## 👨‍💻 About Me  
 
 I am a **Software Engineer** at [Ajeevitech](https://ajeevi.com)
- with a strong focus on building scalable and high-performance applications. I have completed my **Master of Computer Applications (MCA)** from [Mangalayatan University, Aligarh, UP](https://www.mangalayatan.in/).
+ with a strong focus on building scalable and high-performance applications. I have completed my **Master of Computer Applications (MCA)** from [Mangalayatan University, UP, INDIA](https://www.mangalayatan.in/).
 
-I specialize in **API Development**, **Web Development**, **Machine Learning**, and **Database Management**, with hands-on experience in modern technologies like **C#**, **.NET Core**, **Python**, **JavaScript**, and SQL-based systems.
+I specialize in **API Development**, **Web Development**, **Machine Learning**, **Cloud Management**, and **Database Management**, with hands-on experience in modern technologies like **C#**, **.NET Core**, **Python**, **JavaScript**, and SQL-based systems.
 
 I enjoy solving real-world problems through clean architecture, automation, and continuous learning.
 
