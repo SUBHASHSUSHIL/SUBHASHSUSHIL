@@ -52,6 +52,7 @@ I enjoy solving real-world problems through clean architecture, automation, and 
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img alt="Vector Database" src="https://img.shields.io/badge/Vector%20DB-4B32C3?style=for-the-badge&logo=databricks&logoColor=white">
 
 ---
 
