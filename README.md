@@ -27,9 +27,13 @@ I enjoy solving real-world problems through clean architecture, automation, and 
 ## 🧰 Languages and Tools
 <a href="https://github.com/search?q=user%3ASUBHASHSUSHIL+language%3AC%23"><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"></a>
 <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-<a href="https://github.com/search?q=user%3ASUBHASHSUSHIL+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white">
+<img alt="AvaloniaUI" src="https://img.shields.io/badge/AvaloniaUI-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white">
+<a href="https://github.com/search?q=user%3ASUBHASHSUSHIL+language%3Apython">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<a href="https://github.com/search?q=user%3ASUBHASHSUSHIL+tool%3Apandas"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ASUBHASHSUSHIL+tool%3Apandas">
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
 <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge&logo=seaborn&logoColor=white">
 <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
@@ -50,6 +54,8 @@ I enjoy solving real-world problems through clean architecture, automation, and 
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img alt="Rider" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white">
+<img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white">
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white">
 <img alt="Vector Database" src="https://img.shields.io/badge/Vector%20DB-4B32C3?style=for-the-badge&logo=databricks&logoColor=white">
