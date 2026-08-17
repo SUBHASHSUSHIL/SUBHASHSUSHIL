@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me  
 
-I am a **Software Engineer** at [Aditya Group](https://www.adityagroup.com/)
+I am a **Software Engineer** at [CP Plus](https://cpplusworld.com/)
  with a strong focus on building scalable and high-performance applications. I have completed my **Master of Computer Applications (MCA)** from [Mangalayatan University, UP, INDIA](https://www.mangalayatan.in/).
 
 I specialize in **API Development**, **Web Development**, **Machine Learning**, **Cloud Management**, and **Database Management**, with hands-on experience in modern technologies like **C#**, **.NET Core**, **Python**, **JavaScript**, and SQL-based systems.
