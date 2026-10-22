@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Sushil Thakur 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · API & Backend Specialist · ML Enthusiast</b>
+  <b>Software Engineer · API & Backend Specialist · ML & AI Enthusiast</b>
 </p>
 
 <p align="center">
