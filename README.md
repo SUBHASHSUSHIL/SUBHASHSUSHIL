@@ -22,12 +22,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** at [CP Plus](https://cpplusworld.com/), focused on building scalable, high-performance backend systems and intelligent data pipelines. I hold a **Master of Computer Applications (MCA)** from [Mangalayatan University, UP, India](https://www.mangalayatan.in/).
+I'm a **Software Engineer with 4+ years of professional experience** at [CP Plus](https://cpplusworld.com/), focused on building scalable, high-performance backend systems and intelligent data pipelines.
 
 My core expertise spans **API Development**, **Cloud Management**, **Machine Learning**, and **Database Architecture**. I work primarily with the **.NET ecosystem (C#, .NET Core)** on the backend and bring in **Python** for data science and ML workloads. I believe in clean architecture, measurable performance, and solving real problems — not just writing code.
 
 ```text
 🔭 Currently working at     CP Plus — building enterprise-grade software solutions
+💼 Experience               4+ years in software development
 🌱 Always learning          Cloud-native patterns, LLMs, and distributed systems
 💡 Core strengths           Backend APIs · ML pipelines · Database design
 🎯 Goal                     Deliver software that scales and lasts
